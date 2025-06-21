@@ -1,89 +1,74 @@
-<h1 align="center">Hi 👋, I'm Pavan Mutyala</h1>
-<h3 align="center">Passionate deep learning engineer with a knack for unraveling complex data and building intelligent systems</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavanmutyla&label=Profile%20views&color=0e75b6&style=flat" alt="pavanmutyla" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pavanmutyla&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="pavanmutyla trophies" />
-  </a>
-</p>
+<div align="center">
+  
+  # 👋 Welcome to My Digital Universe!
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pavan+Mutyala;Deep+Learning+Engineer;AI+%26+ML+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+</div>
 
 ---
-
-- 🔭 I'm currently working on **Stuff, lots of stuff**
-- 🌱 I'm currently learning **Agentic AI**
-- 📫 How to reach me: **mutyalapavan9@gmail.com**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/pavan-mutyalanv/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/mutyalapavan9" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/pp3_m/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/@mutyalapavan9" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/PFB4tqpH" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmutyla&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
+  ## 🚀 About Me
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmutyla&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400)
+</div>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+🔭 **Currently exploring:** Agentic AI systems  
+🌱 **Building:** Intelligent solutions with deep learning  
+
+---
+
+<div align="center">
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=pavanmutyla&theme=radical&hide_border=true)
+  ## 🌐 Let's Connect & Build Something Amazing!
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanmutyla&theme=react-dark&hide_border=true)
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-mutyalanv/)
+  [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mutyalapavan9)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/pp3_m/)
+  [![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@mutyalapavan9)
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/PFB4tqpH)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 🛠️ My Tech Arsenal
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="70" title="Python">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="70" title="PyTorch">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="70" title="scikit-learn">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="70" title="OpenCV">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://python.langchain.com/img/brand/wordmark.png" width="90" title="LangChain">
+  </p>
+  
+  <br>
+  
+  <p align="center">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="65" title="LangGraph">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" title="Pinecone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="65" title="Pydantic">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_mark.svg" width="70" title="Pandas">
+  </p>
+  
+  <br>
+  
+  <p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="70" title="NumPy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" width="80" title="Matplotlib">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" width="70" title="Plotly">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="60" title="Git">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="60" title="Linux">
+  </p>
 
 </div>
 
@@ -91,6 +76,34 @@
 
 <div align="center">
   
-  ### ✨ Thanks for visiting! Let's connect and build something amazing together! ✨
+  ## 💭 Random Dev Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-b8e8-7e55b5aa7c90.gif" width="200">
+  </div>
   
 </div>
+
+---
+
+<div align="center">
+  
+  ## 🎵 Vibes & Views
+  
+  <img src="https://komarev.com/ghpvc/?username=pavanmutyla&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100">
+  </div>
+  
+  ### ✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨
+  
+  <div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48f4c.gif" width="400">
+  </div>
+  
+</div>
+
+---

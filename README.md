@@ -75,17 +75,14 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavanmutyla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmutyla&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmutyla&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmutyla&hide_border=true&count_private=true" alt="GitHub Streak" />
 </p>

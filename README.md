@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pavanmutyla&theme=onedark" alt="pavanmutyla trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=pavanmutyla&theme=onedark&no-frame=false&no-bg=true&margin-w=4" alt="pavanmutyla trophies" />
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Stuff, lots of stuff**
-- 🌱 I’m currently learning **Agentic AI**
+- 🔭 I'm currently working on **Stuff, lots of stuff**
+- 🌱 I'm currently learning **Agentic AI**
 - 📫 How to reach me: **mutyalapavan9@gmail.com**
 
 ---
@@ -75,14 +75,22 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanmutyla&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanmutyla&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmutyla&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=pavanmutyla&theme=radical&hide_border=true)
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pavanmutyla&theme=react-dark&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanmutyla&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanmutyla&hide_border=true&count_private=true" alt="GitHub Streak" />
-</p>
+---
+
+<div align="center">
+  
+  ### ✨ Thanks for visiting! Let's connect and build something amazing together! ✨
+  
+</div>

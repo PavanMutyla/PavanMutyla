@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 👋 Welcome to My Digital Universe!
+
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pavan+Mutyala;Deep+Learning+Engineer;AI+%26+ML+Enthusiast;Building+Intelligent+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Pavan+Mutyala;AI+Engineer;" alt="Typing SVG" />
   
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
